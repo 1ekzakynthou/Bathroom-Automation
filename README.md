@@ -22,5 +22,5 @@ photoresistor
 12V solenoid valve
 τροφοδοτικο
 διαφορα ηλεκτρονικά είδη (leds ,δίοδο, πυκνωτη,7805 5v regulator  )
-mini usb cale
+mini usb cable
 
