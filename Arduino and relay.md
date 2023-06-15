@@ -5,6 +5,7 @@
 Αυτός είναι και ο λόγος που το χρησιμοποιούμε με τον μικροελεγκτή Arduino, αφού οι ακροδέκτες εξόδου μπορούν να δώσουν τάση  5 V ενώ μπορεί να θέλουμε να ελέγξουμε μια συσκευή που δουλεύει π.χ. στα 250 V  ,AC. Για τον έλεγχο περισσότερων συσκευών/φορτίων υπάρχουν relay module  δύο, τεσσάρων ,οκτώ κ.λ.π καναλιών.
 
 
+                
 
 
 
@@ -27,6 +28,10 @@ NO (Normally Open) που θα αντιστοιχεί σε ανοιχτό δια
 
 Για την καλύτερη κατανόηση δίνονται οι παρακάτω εικόνες (πηγή: <https://ncd.io/blog/relay-logic/>)
 
+![relay1](https://github.com/1ekzakynthou/Bathroom-Automation/assets/80713520/695f328b-cc02-4c2e-b39d-c291299c87ca)
+
+
+![relay2](https://github.com/1ekzakynthou/Bathroom-Automation/assets/80713520/38851588-caf8-4fab-af55-64115173d904)
 
 
 
@@ -46,6 +51,7 @@ NO (Normally Open) που θα αντιστοιχεί σε ανοιχτό δια
 
 Όλοι οι δυνατοί συνδυασμοί φαίνονται στον παρακάτω πίνακα: 
 (πηγή: https://arduinogetstarted.com/tutorials/arduino-relay)
+![I_O relay state](https://github.com/1ekzakynthou/Bathroom-Automation/assets/80713520/0f7d9079-f1c4-4ff7-b271-8fa92e49dac2)
 
 
 
