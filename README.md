@@ -58,3 +58,5 @@ dc power jack
 Στο παρακάτω βίντεο παρουσιάζεται στο σύνολο η συμμετοχή μας.
 
 [video συμμετοχής](https://blogs.sch.gr/1sekzak/files/2023/06/zantetrics_c.mp4)
+
+Και η σελίδα του έργου μας :  [Zantetrics- Bathroom Automation](https://openedtech.ellak.gr/robotics2023/zantetrics-bathroom-automation/)
