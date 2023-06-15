@@ -7,7 +7,8 @@
 
 ( **βλ. εικόνα 1**) να ανιχνεύσουμε  εάν ένας άνθρωπος έχει μετακινηθεί μέσα ή έξω από το εύρος του αισθητήρα .
 
-`       ![εικόνα1](https://github.com/1ekzakynthou/Bathroom-Automation/assets/80713520/7c2d80ca-b3ac-43f9-ba4c-3f225bf12de3)
+`      ![εικόνα1](https://github.com/1ekzakynthou/Bathroom-Automation/assets/80713520/03a79054-2956-4d84-8c11-c5b14668602c)
+
                                   `**εικόνα 1**  
 
 
@@ -16,11 +17,13 @@
 Σύμφωναμε το datasheet του αισθητήρα απαιτείται πείπου 1 λεπτό μετα την τροφοδοσία για να μπει σε κανονική λειτουργία.
 `                     `**εικόνα 2**
 
+![εικονα2](https://github.com/1ekzakynthou/Bathroom-Automation/assets/80713520/ac4f7c4f-72cb-4208-b90e-ca946f182458)
 
 
 
 Κάποια modules (**εικόνα 3**)διαθέτουν στο πίσω μέρος ένα βραχυκυκλωτήρα ανάλογα με τη θέση του οποίουεπιτρέπουν  Trigger methods: L – disable repeat trigger, H enable repeat trigger .
 
+![εικόνα3](https://github.com/1ekzakynthou/Bathroom-Automation/assets/80713520/f9dd4d58-a8ef-4ab6-86d1-88a344f497e7)
 
 
 
@@ -32,6 +35,9 @@
 **Παράδειγμα κατανόησης εφαρμογής στο Tinkercad** : [pir sensor example](https://www.tinkercad.com/things/f8jnhYncByu)
 
 Στην εικόνα που ακολουθεί φαίνεται το κύκλωμα.
+![εικόνα code pir](https://github.com/1ekzakynthou/Bathroom-Automation/assets/80713520/ffc42a71-c6fd-4ff5-95b2-a403a44cb87f)
+
+
 ` `Προσοχή!!! Οι ακροδέκτες του αισθητήρα στο tinkercad είναι με διαφορετική σειρά από ότι στον πραγματικό αισθητήρα Pir. Κάνετε την σωστή αντιστοιχία όταν μεταφέρετε τον κώδικα στην εφαρμογή Arduino IDE και κατ επέκταση στον μικροελεγκτή σας.
 
 **Ο κώδικας**
