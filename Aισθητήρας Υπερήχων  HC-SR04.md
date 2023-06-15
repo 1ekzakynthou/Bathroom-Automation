@@ -1,5 +1,6 @@
 ﻿**Aισθητήρας Υπερήχων  HC-SR04**
 
+![HC SR04 EIK1](https://github.com/1ekzakynthou/Bathroom-Automation/assets/80713520/11908064-a139-4bd1-a166-bc3c2e1913c1)
 
 
 
@@ -25,9 +26,11 @@
 
 Για τον υπολογισμό της απόστασης θα πρέπει να λάβουμε υπόψη μας ότι η ταχύτητα του ήχου είναι u=340m/sec=0,034cm/μsec και ότι ο χρόνος (σε μsec) που μας δίνει η ακίδα Echo είναι ο συνολικός χρόνος που ταξίδεψε το κύμα. Επομένως η απόσταση s (σε cm) του εμποδίου από τον αισθητήρα προκύπτει από τον τύπο: s(cm)=t(μsec)\*0,034(cm/μsec)/2.
 
+![HC SR04 EIK2](https://github.com/1ekzakynthou/Bathroom-Automation/assets/80713520/56cfca66-56e9-41fb-9488-4d6d2bedbf44)
 
 
 Παράδειγμα εφαρμογής μέτρησης απόστασης με τον αισθητήρα υπερήχων HC-SR04 στο tinkercad
+![HC SR04 EIK tinkercad](https://github.com/1ekzakynthou/Bathroom-Automation/assets/80713520/e71b9f98-98d4-4a1a-9a81-86486b3c1712)
 
 
 
