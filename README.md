@@ -32,3 +32,6 @@ photoresistor
 mini usb cable
 κουτί κατασκευών
 dc power jack
+
+
+Στο παρακάτω βίντεο παρουσιάζεται στο σύνολο η συμμετοχή μας [video συμμετοχής](https://blogs.sch.gr/1sekzak/files/2023/06/zantetrics_c.mp4)
